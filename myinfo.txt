@@ -1,1 +1,2 @@
 "Full name: Jason Woodruff" 
+"School: USC"
